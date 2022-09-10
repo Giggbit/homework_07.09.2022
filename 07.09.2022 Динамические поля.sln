@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.09.2022 Динамические поля", "07.09.2022 Динамические поля.vcxproj", "{EB4AB36F-C23D-439D-A122-925E9F5113C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Debug|x64.ActiveCfg = Debug|x64
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Debug|x64.Build.0 = Debug|x64
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Debug|x86.Build.0 = Debug|Win32
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Release|x64.ActiveCfg = Release|x64
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Release|x64.Build.0 = Release|x64
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Release|x86.ActiveCfg = Release|Win32
+		{EB4AB36F-C23D-439D-A122-925E9F5113C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878A9B00-E271-434F-B0B7-D0EB1EC7BBBA}
+	EndGlobalSection
+EndGlobal
